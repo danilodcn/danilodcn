@@ -20,11 +20,10 @@ I'm Danio Nascimento, back-end developer jr, I like challenges, I'm always looki
 <br/>
 
 
-- 🔭 I am currently learning and improving Node, Typescript, Django, TDD, SOLID.!
+- 🔭 I am currently learning and improving Node, Typescript, VueJS, NuxtJS, Django, TDD, SOLID.!
 - 💬 I am available for work in the home office mode!
 -  👯 I’m looking to collaborate on Educational and Social impact open source projects
 - :rocket: I’m studying at Rocketseat: 
-- 😄 Pronouns: Him/His
 - 📫 How to reach me: daconnas.dcn@gmail.com
 - 📝 See my resume by <a  target="blank" href="https://www.canva.com/design/DAEtqFFnCrI/I0qO7YfHsOI8XtE_ehR7jQ/view?utm_content=DAEtqFFnCrI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">clicking here</a>
 
