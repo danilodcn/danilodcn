@@ -38,7 +38,8 @@ I'm Danio Nascimento, back-end developer jr, I like challenges, I'm always looki
 </div>
 
 <div align="center"  >
-  <img alt="Danilo's github stats" src="https://github-readme-stats.vercel.app/api?username=danilodcn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" \>
+  <img height="140px" alt="Danilo's github stats" src="https://github-readme-stats.vercel.app/api?username=danilodcn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_title=true&hide_border=true" \>
+ <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilodcn&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=cobalt" />
 <div>
 
 
