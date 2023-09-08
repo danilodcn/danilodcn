@@ -27,18 +27,26 @@ I'm Danio Nascimento, back-end developer jr, I like challenges, I'm always looki
 - 📝 See my resume by <a  target="blank" href="https://www.canva.com/design/DAEtqFFnCrI/I0qO7YfHsOI8XtE_ehR7jQ/view?utm_content=DAEtqFFnCrI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">clicking here</a>
 
 <br/>
+<br/>
+<br/>
 
- <div align="center"> 
- 
+<div align="center"> 
+
  ![](https://img.shields.io/badge/OS-Linux-2bbc8a)
  ![](https://img.shields.io/badge/Editor-VSCode-2bbc8a)
  ![](https://img.shields.io/badge/Code-JavaScript%26%26TypeScript%26%26Python-2bbc8a)
  ![](https://img.shields.io/badge/Interest-Docker%26%26AWS-2bbc8a)
 </div>
 
+
 <div align="center"  >
-  <img height="140px" alt="Danilo's github stats" src="https://github-readme-stats.vercel.app/api?username=danilodcn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_title=true&hide_border=true" \>
- <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilodcn&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=cobalt" />
+  <img
+    height="200px"
+    alt="Danilo's github stats"
+    src="https://github-readme-stats.vercel.app/api?username=danilodcn&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_title=true&hide_border=true"
+  \>
+ <img
+  height="200px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilodcn&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=cobalt&exclude_repo=TrafoTCC,Pesquisa"
+/>
 <div>
-
-
